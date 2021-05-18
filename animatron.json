@@ -226,12 +226,12 @@
 		},
 		{
 			"id": 4,
-			"nama_add": "Guns",
-			"add_url": "https://archive.org/download/guns_20201003/Guns/guns.zip",
-			"addB_url": "https://archive.org/download/guns_20201003/Guns/guns-B.mcpack",
-			"addR_url": "https://archive.org/download/guns_20201003/Guns/guns-R.mcpack",
-			"view_add": "https://ia801708.us.archive.org/14/items/guns_20201003/Guns/guns.png",
-			"des_add": "https://ia801708.us.archive.org/14/items/guns_20201003/Guns/guns.png"
+			"nama_add": "Freddy: Sister Location",
+			"add_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/FNAF%20Sister%20Location.zip",
+			"addB_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/fnafslbp.mcpack",
+			"addR_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/fnafslrp.mcpack",
+			"view_add": "http://mcpedl.com/wp-content/uploads/2017/12/fnaf-4-5-4.jpg",
+			"des_add": "http://mcpedl.com/wp-content/uploads/2017/12/fnaf-4-5-4.jpg"
 		},
 		{
 			"id": 5,
@@ -388,17 +388,17 @@
 		},
 		{
 			"id": 6,
-			"nama_map": "Cubical's Tower",
-			"map_url": "https://archive.org/download/Cubicalstower/Cubical%E2%80%99s%20Tower/Cubicalstower.zip",
-			"view_map": "https://ia601502.us.archive.org/3/items/Cubicalstower/Cubical%E2%80%99s%20Tower/cubicalstower.png",
-			"des_map": "https://ia801905.us.archive.org/22/items/Cubicalstower/Cubical%E2%80%99s%20Tower/cubicalstower.png"
+			"nama_map": "Freddy: Sister Location",
+			"map_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/fnaf_sl_nigh.zip",
+			"view_map": "http://mcpedl.com/wp-content/uploads/2017/12/fnaf-4-5-4.jpg",
+			"des_map": "http://mcpedl.com/wp-content/uploads/2017/12/fnaf-4-5-4.jpg"
 		},
 		{
 			"id": 7,
-			"nama_map": "Among Us Craft",
-			"map_url": "https://archive.org/download/amonguscraft/Among%20Us%20Craft/amonguscraft.zip",
-			"view_map": "https://ia601509.us.archive.org/19/items/amonguscraft/Among%20Us%20Craft/amonguscraft.png",
-			"des_map": "https://ia801906.us.archive.org/13/items/amonguscraft/Among%20Us%20Craft/amonguscraft.png"
+			"nama_map": "Herobrine Terror",
+			"map_url": "https://raw.githubusercontent.com/bro-cell/animatron/main/Bonus_Herobrine_Terror.zip",
+			"view_map": "https://raw.githubusercontent.com/bro-cell/animatron/main/herobin.jpeg",
+			"des_map": "https://raw.githubusercontent.com/bro-cell/animatron/main/herobin.jpeg"
 		},
 		{
 			"id": 8,
